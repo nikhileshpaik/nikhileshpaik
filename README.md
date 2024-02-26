@@ -4,6 +4,7 @@
 - 📫 How to reach me? here is my mail contact nikhileshpaik@hotmail.com
 - 😄 Pronouns: sir
 - ⚡ Fun fact: Desire to live social media life.
+- My resume https://sites.google.com/view/nikhileshpaik/home
 
 <!---
 nikhileshpaik/nikhileshpaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
